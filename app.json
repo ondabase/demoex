@@ -39,6 +39,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "485ea503-d895-4457-a8ce-5bf5c43bdd27"
+      }
+    },
+    "owner": "ondabase"
   }
 }
